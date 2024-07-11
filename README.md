@@ -16,7 +16,7 @@
 
 🚀 **Projects Highlights:**
 
-<img width="100" alt="image01" src="https://github.com/lakshitha779988/lakshitha779988/assets/136601617/00c881e7-60c9-4e88-978b-842cecb528e5">
+<img width="500" hight="500" alt="image01" src="https://github.com/lakshitha779988/lakshitha779988/assets/136601617/00c881e7-60c9-4e88-978b-842cecb528e5">
 - **Personal Finance Tracker:** Built a full-stack CRUD application using the MERN stack for managing personal finances. Integrated Clerk for secure authentication and used React-Table for displaying data efficiently
 
 - **To-Do List Application:** Developed a responsive web app using React and Firebase, allowing users to add, edit, and delete tasks. Implemented user authentication and real-time updates with Firestore.
