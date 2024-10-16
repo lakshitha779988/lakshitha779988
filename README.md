@@ -33,7 +33,7 @@
 
 💞️ I’m looking to collaborate on projects related to full-stack development and open to new learning opportunities.
 
-📫 How to reach me: [Your LinkedIn Profile](https://www.linkedin.com/in/lakshitha-madushan-14559727a/)
+📫 How to reach me: [My LinkedIn Profile](https://www.linkedin.com/in/lakshitha-madushan-14559727a/)
 
 
 ⚡ Fun fact: I enjoy exploring different cuisines and trying out new recipes in my spare time.
